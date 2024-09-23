@@ -12,7 +12,7 @@ title                    : "Noah Creany Academic Page"
 title_separator          : "-"
 name                     : &name "Noah Creany"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://noahcreany.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "noahecreany/noahecreany.github.io"
 
