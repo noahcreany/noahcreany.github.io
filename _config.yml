@@ -21,7 +21,7 @@ repository               : "noahecreany/noahecreany.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Noah_headshot.jpg"
+  avatar           : "images/Noah_headshot.png"
   name             : "Noah Creany PhD"
   pronouns         : # example: "she/her"
   bio              : "ORISE/USFS Postdoctoral Researcher"
