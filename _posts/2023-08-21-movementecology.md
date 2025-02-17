@@ -1,6 +1,8 @@
 ---
 title: 'Using Movement-Ecology Tools to Understand Recreation Behavior'
 date: 2023-8-21
+author: noah
+excerpt: Python packages for analyzing wildlife movement behavior are very useful for understanding human movement behavior.
 permalink: /posts/2023/08/movementecology
 tags:
   - GIS
