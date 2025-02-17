@@ -1,7 +1,7 @@
 ---
 title: 'Using Movement-Ecology Tools to Understand Recreation Behavior'
 date: 2023-8-21
-permalink: /posts/2023/08/movement_ecology
+permalink: /posts/2023/08/movementecology
 tags:
   - GIS
   - movement
