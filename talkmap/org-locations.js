@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Estes Park, CO, USA<br>Biennial Rocky Mtn. NP Research Conference",
+    40.3772,
+    -105.5217
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Schneverdingen, Germany<br>MMV12",
+    53.1162,
+    9.7923
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Snowbird, Utah, USA <br>ISSRM 18 (now IASNR)",
+    40.5829,
+    -111.6556
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
-  ]
+    "Portland, Maine, USA<br> IASNR 2023",
+    43.6591,
+    -70.2568
+  ],
 ];
