@@ -44,6 +44,13 @@ Awards
 - Doctoral Student Researcher of the Year (2023)
 
 
+Funded Research
+======
+| **Year** | **Project**                                                                                           |
+|------|-----------------------------------------------------------------------------------------------------------|
+| 2025 | Rocky Mountain National Park Day Use Visitor Access Monitoring <br $\cdot$ $15,000 (Rocky Mountain Conservancy) |
+| 2024 | Rocky Mountain National Park Day Use Visitor Access Monitoring <br> $\cdot$ $15,000 (Rocky Mountain Conservancy) |
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
