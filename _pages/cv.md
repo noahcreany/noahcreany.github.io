@@ -29,7 +29,7 @@ through the lens of social-ecological systems.
 Skills
 ======
 
-<table>
+<table style="display: inline-table;">
   <tr>
     <td style="vertical-align:top; padding-right: 20px;">
       <p style="text-align: center;"><strong>Programming Languages</strong></p>
