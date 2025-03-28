@@ -15,3 +15,4 @@ package-lock.json
 # Ignore Spyder files 
 .spyproject
 .spyproject/*
+.DS_Store
