@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Noah Creany Curriculum Vitae
 
 Education
 ======
@@ -29,47 +29,28 @@ through the lens of social-ecological systems.
 Skills
 ======
 
-<style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
-</style>
-<table class="tg"><thead>
+<table>
   <tr>
-    <th class="tg-amwm">Programming <br>Languages</th>
-    <th class="tg-amwm">Software</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-dzk6">Python</td>
-    <td class="tg-dzk6">Google Cloud Compute</td>
+    <td style="vertical-align:top; padding-right: 20px;">
+      <p style="text-align: center;"><strong>Programming Languages</strong></p>
+      <ul>
+        <li>Python</li>
+        <li>R</li>
+        <li>ArcPy</li>
+        <li>SAS</li>
+      </ul>
+    </td>
+    <td style="vertical-align:top;">
+      <p style="text-align: center;"><strong>Software</strong></p>
+      <ul>
+        <li>Google Cloud Compute</li>
+        <li>Google Earth Engine</li>
+        <li>ArcPro/QGIS</li>
+        <li>Adobe CC</li>
+        <li>Latex</li>
+      </ul>
+    </td>
   </tr>
-  <tr>
-    <td class="tg-baqh">R</td>
-    <td class="tg-baqh">Google Earth Engine</td>
-  </tr>
-  <tr>
-    <td class="tg-dzk6">ArcPy</td>
-    <td class="tg-dzk6">ArcMap/ArcGIS, QGIS</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">SAS</td>
-    <td class="tg-baqh">Adobe CC</td>
-  </tr>
-  <tr>
-    <td class="tg-dzk6"></td>
-    <td class="tg-dzk6">LaTeX</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">Microsoft Office</span></td>
-  </tr>
-</tbody>
 </table>
 
 Awards
