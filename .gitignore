@@ -16,3 +16,5 @@ package-lock.json
 .spyproject
 .spyproject/*
 .DS_Store
+.ipynb_checkpoints/*
+.Rhistory
