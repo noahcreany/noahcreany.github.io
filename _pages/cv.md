@@ -123,20 +123,22 @@ Service and leadership
   - *Landscape and Urban Planning. 2021-Present*
 
 - **Working Groups**
-  - *Review Workshop Facilitator IPBES*. (2021)<br> Assisted in organizing and collecting comments from a North American panel of Reviewers
+  - *Review Workshop Facilitator IPBES*. (2021)  
+      - Assisted in organizing and collecting comments from a North American panel of Reviewers
 for the International Panel on Biodiversity and Ecosystem Services (IPBES) Values
 Assessment Report.
 
 - **Training**
-  -*Sustainable Trail Design & Monitoring Webinar. Great Basin Institute.* (2020)<br> Delivered a webinar to Great Basin Institute/Nevada Conservation Corps AmeriCorps crew
+  -*Sustainable Trail Design & Monitoring Webinar. Great Basin Institute. (2020)*  
+     - Delivered a webinar to Great Basin Institute/Nevada Conservation Corps AmeriCorps crew
 leaders on Sustainable Trail Design, Recreation Ecology, and GIS analysis and trail design
 tools.
 
 - **Volunteering**
-  - *Emergency Medical Fund Liaison & Treasurer. Graduate Student Council. 2019-2021*
+  - *Emergency Medical Fund Liaison & Treasurer. Graduate Student Council. (2019-2021)*
     - Oversee budget for USU College of Natural Resources Graduate Student Emergency Medical
 Fund Scholarship which provides financial assistance to graduate students.
-  - *Nordic United. 2017-Present*
+  - *Nordic United. (2017-2024)t*
     - Volunteer trail groomer for Nordic trails in Logan, UT and assisted with preparation and
 organization of a backcountry ski-mountaineering race. Nordic United advocates for
 human-powered winter recreation on the Cache National Forest.
