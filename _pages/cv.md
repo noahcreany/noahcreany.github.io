@@ -122,14 +122,14 @@ Service and leadership
   - *Biodiversity and Conservation. 2021-Present*
   - *Landscape and Urban Planning. 2021-Present*
 
-- **Working Groups**
+- **Working Groups**  
   - *Review Workshop Facilitator IPBES*. (2021)  
       - Assisted in organizing and collecting comments from a North American panel of Reviewers
 for the International Panel on Biodiversity and Ecosystem Services (IPBES) Values
 Assessment Report.
 
-- **Training**
-  -*Sustainable Trail Design & Monitoring Webinar. Great Basin Institute. (2020)*  
+- **Training**  
+  - *Sustainable Trail Design & Monitoring Webinar. Great Basin Institute. (2020)*  
      - Delivered a webinar to Great Basin Institute/Nevada Conservation Corps AmeriCorps crew
 leaders on Sustainable Trail Design, Recreation Ecology, and GIS analysis and trail design
 tools.
