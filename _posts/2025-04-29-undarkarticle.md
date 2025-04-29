@@ -15,20 +15,20 @@ In the article I shared findings from Chapter 3 of my dissertation ([link](https
 The Use-Impact relationship in Recreation Ecology is one of the foundational "theories" in the field, but it can seem a bit abstract to some. The basic idea is as I mention in the article, that the majority of disturbance generated from visitor use comes from the initial use, while the proportional impact of the use that follows is much smaller. In short, given sustainably constructed and designed trails, increased use will not lead to a proportional increase in disturbance - but the increased use will have an effect on the visitor experience (e.g., perceptions of safety, solitude, etc.). I thought I'd include a visual to help illustrate the curve-linear or sigmoidal relationship between use and impact below which I adapted from ([Hammit,Cole, Monz (2015)](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/fee.1631)).
 
 
-<div id="images">
+<div style="text-align: center;">
     <a>
         <img src="/files/images/Veg Impact Figure.png" width="70%">
-        <div class="caption">The <i>use-impact</i> functional relationship illustrated with two different ground cover types. With the initial 20% of use, the vegetation cover loss proceeds rapidly following an exponential relationship, but with additional use, the curve starts to flatten. The red line is a less resistant ground cover, such as a forb or herb with above ground stems, while the blue line is a more resistant ground cover like a grass or rhizome with below ground roots.</div>
+        <p>The <i>use-impact</i> functional relationship illustrated with two different ground cover types. With the initial 20% of use, the vegetation cover loss proceeds rapidly following an exponential relationship, but with additional use, the curve starts to flatten. The red line is a less resistant ground cover, such as a forb or herb with above ground stems, while the blue line is a more resistant ground cover like a grass or rhizome with below ground roots.</p>
     </a>
 </div>
 
 This relationship is a foundational concept in recreation ecology, and different functional response curves have been proposed for many different types of taxa and biotic and abiotic resources. Although this figure illustrates a relatively simple relationship between recreation use and disturbance, it's really based on a number of different factors that are pretty well summarized in this conceptual diagram:
 
 
-<div id="images">
+<div style="text-align: center;">
     <a>
-        <img src="/files/images/Veg Impact Figure.png" width="70%">
-        <div class="caption">Conceptual diagram illustrating the drivers, mediating factors, and changes to ecological systems as a result of recreation use. The green boxes at the top (use density, distribution, and activity type (behavior)) drive the interactions with ecological resources (e.g., vegetation, soil, wildlife).</div>
+        <img src="/files/images/Veg Disturbance.png" width="70%">
+        <p>Conceptual diagram illustrating the drivers, mediating factors, and changes to ecological systems as a result of recreation use. The green boxes at the top (use density, distribution, and activity type (behavior)) drive the interactions with ecological resources (e.g., vegetation, soil, wildlife).</p>
     </a>
 </div>
 
