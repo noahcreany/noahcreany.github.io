@@ -17,7 +17,7 @@ The Use-Impact relationship in Recreation Ecology is one of the foundational "th
 
 <div style="text-align: center;">
     <img src="/files/images/Veg Impact Figure.png" width="70%" alt="Graph showing use-impact relationship for different ground cover types"> 
-    <p style="font-size: small; margin-top: 5px;"> The <i>use-impact</i> functional relationship illustrated with two different ground cover types. With the initial 20% of use, the vegetation cover loss proceeds rapidly following an exponential relationship, but with additional use, the curve starts to flatten. The red line is a less resistant ground cover, such as a forb or herb with above ground stems, while the blue line is a more resistant ground cover like a grass or rhizome with below ground roots.
+    <p style="font-size: small; margin-top: 6px;"> The <i>use-impact</i> functional relationship illustrated with two different ground cover types. With the initial 20% of use, the vegetation cover loss proceeds rapidly following an exponential relationship, but with additional use, the curve starts to flatten. The red line is a less resistant ground cover, such as a forb or herb with above ground stems, while the blue line is a more resistant ground cover like a grass or rhizome with below ground roots.
     </p>
 </div>
 
@@ -26,7 +26,7 @@ This relationship is a foundational concept in recreation ecology, and different
 
 <div style="text-align: center;">
     <img src="/files/images/Veg Disturbance.png" width="70%" alt="Conceptual diagram of vegetation disturbance response to recreation use."> 
-    <p style="font-size: small; margin-top: 5px;"> Conceptual diagram illustrating the drivers, mediating factors, and changes to ecological systems as a result of recreation use. The green boxes at the top (use density, distribution, and activity type (behavior)) drive the interactions with ecological resources (e.g., vegetation, soil, wildlife)..
+    <p style="font-size: small; margin-top: 6px;"> Conceptual diagram illustrating the drivers, mediating factors, and changes to ecological systems as a result of recreation use. The green boxes at the top (use density, distribution, and activity type (behavior)) drive the interactions with ecological resources (e.g., vegetation, soil, wildlife)..
     </p>
 </div>
 
