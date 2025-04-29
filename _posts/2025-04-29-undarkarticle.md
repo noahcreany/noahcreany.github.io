@@ -16,20 +16,19 @@ The Use-Impact relationship in Recreation Ecology is one of the foundational "th
 
 
 <div style="text-align: center;">
-    <a>
-        <img src="/files/images/Veg Impact Figure.png" width="70%">
-        <p>The <i>use-impact</i> functional relationship illustrated with two different ground cover types. With the initial 20% of use, the vegetation cover loss proceeds rapidly following an exponential relationship, but with additional use, the curve starts to flatten. The red line is a less resistant ground cover, such as a forb or herb with above ground stems, while the blue line is a more resistant ground cover like a grass or rhizome with below ground roots.</p>
-    </a>
+    <img src="/files/images/Veg Impact Figure.png" width="70%" alt="Graph showing use-impact relationship for different ground cover types"> 
+    <p style="font-size: small; margin-top: 5px;"> The <i>use-impact</i> functional relationship illustrated with two different ground cover types. With the initial 20% of use, the vegetation cover loss proceeds rapidly following an exponential relationship, but with additional use, the curve starts to flatten. The red line is a less resistant ground cover, such as a forb or herb with above ground stems, while the blue line is a more resistant ground cover like a grass or rhizome with below ground roots.
+    </p>
 </div>
 
 This relationship is a foundational concept in recreation ecology, and different functional response curves have been proposed for many different types of taxa and biotic and abiotic resources. Although this figure illustrates a relatively simple relationship between recreation use and disturbance, it's really based on a number of different factors that are pretty well summarized in this conceptual diagram:
 
 
+
 <div style="text-align: center;">
-    <a>
-        <img src="/files/images/Veg Disturbance.png" width="70%">
-        <p>Conceptual diagram illustrating the drivers, mediating factors, and changes to ecological systems as a result of recreation use. The green boxes at the top (use density, distribution, and activity type (behavior)) drive the interactions with ecological resources (e.g., vegetation, soil, wildlife).</p>
-    </a>
+    <img src="/files/images/Veg Disturbance.png" width="70%" alt="Conceptual diagram of vegetation disturbance response to recreation use."> 
+    <p style="font-size: small; margin-top: 5px;"> Conceptual diagram illustrating the drivers, mediating factors, and changes to ecological systems as a result of recreation use. The green boxes at the top (use density, distribution, and activity type (behavior)) drive the interactions with ecological resources (e.g., vegetation, soil, wildlife)..
+    </p>
 </div>
 
 One of the interesting things about Recreation Ecology, like in the above description of the use-impact curve is the inter-relationship between social ane ecological systems. On one hand, we want to mitigate the disturbance from recreation, on the other hand, disturbed areas serve and important function to concentrate use. Most of the time, if you're heading out for a backpacking trip, you'll find the trailhead and follow the trail and when you arrive at your destination you'll probably look for a spot that is well defined, flat, and probably already has a fire-ring. Protected area managers can take advantage of this convenience bias to help concentrate use and mitigate proferation of impacts, because at times these impacted areas serve as an amenity.  
