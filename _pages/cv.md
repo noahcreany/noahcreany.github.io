@@ -116,18 +116,13 @@ Teaching
 Service and leadership
 ======
 
-- **Academic Journal Peer Review**
-  - *Journal of Interpretation Research. 2024-Present*
-  - *Journal of Park and Recreation Administration. 2021-Present*
-  - *Biodiversity and Conservation. 2021-Present*
-  - *Landscape and Urban Planning. 2021-Present*
-
-- **Working Groups**  
-  - *Review Workshop Facilitator IPBES*. (2021)  
-      - Assisted in organizing and collecting comments from a North American panel of Reviewers
-for the International Panel on Biodiversity and Ecosystem Services (IPBES) Values
-Assessment Report.
-
+- **Academic Journals**
+  - **Associate Editor** - *Journal of Outdoor Recreation & Tourism Research. 2025-Present*
+  - Reviewer - *Journal of Interpretation Research. 2024-Present*
+  - Reviewer - *Journal of Park and Recreation Administration. 2021-Present*
+  - Reviewer - *Biodiversity and Conservation. 2021-Present*
+  - Reviewer - *Landscape and Urban Planning. 2021-Present*
+  
 - **Training**  
   - *Sustainable Trail Design & Monitoring Webinar. Great Basin Institute. (2020)*  
      - Delivered a webinar to Great Basin Institute/Nevada Conservation Corps AmeriCorps crew
