@@ -55,17 +55,6 @@ Skills
   </tr>
 </table>
 
-Awards
-======
-
-**Rocky Mountain Cooperative Ecosystem Studies Unit (CESU)**
-
-- Student Researcher (Honorable Mention) (2023)
-
-**Utah State University Quinney College of Natural Resources**
-
-- Doctoral Student Researcher of the Year (2023)
-
 
 Funded Research
 ======
@@ -108,14 +97,23 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+Awards
+======
+
+**Rocky Mountain Cooperative Ecosystem Studies Unit (CESU)**
+: Student Researcher (Honorable Mention) (2023)
+
+**Utah State University Quinney College of Natural Resources**
+: Doctoral Student Researcher of the Year (2023)
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service & Leadership
 ======
 
 - **Academic Journals**
