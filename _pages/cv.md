@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "Noah Creany Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Noah Creany Curriculum Vitae
+
 
 Education
 ======
@@ -122,7 +122,7 @@ Service and leadership
   - Reviewer - *Journal of Park and Recreation Administration. 2021-Present*
   - Reviewer - *Biodiversity and Conservation. 2021-Present*
   - Reviewer - *Landscape and Urban Planning. 2021-Present*
-  
+
 - **Training**  
   - *Sustainable Trail Design & Monitoring Webinar. Great Basin Institute. (2020)*  
      - Delivered a webinar to Great Basin Institute/Nevada Conservation Corps AmeriCorps crew
