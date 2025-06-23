@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
+{% include toc %}
 
+[Download CV (PDF)](https://noahcreany.github.io/files/N_Creany_CV.pdf)
 
 Education
 ======
