@@ -15,7 +15,7 @@ My adivisor has had a long-term collaboration with the Rocky Mountain National P
 I presented my research on the Rocky Mountaion National Park Timed Entry Permit System (TEPS) at the 2024 Biennial Research Conference this past March, and I created a cool visualization of the trends in park visitation over the course of a century – special thanks to [NPS IRMA](https://irma.nps.gov/Stats/) for the data. 
 
 <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/files/images/ROMO_Visitation.gif" width="70%" alt="A century of RMNP Visitation"> 
+    <img src="{{ site.baseurl }}/files/images/ROMO_Visitation.gif" width="90%" alt="A century of RMNP Visitation"> 
     <p style="font-size: small; margin-top: 6px;"> A century of RMNP Visitation, with annotations for time between each million visitors</p>
 </div>
 
