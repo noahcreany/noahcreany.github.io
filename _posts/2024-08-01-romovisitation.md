@@ -14,7 +14,7 @@ My adivisor has had a long-term collaboration with the Rocky Mountain National P
 
 I presented my research on the Rocky Mountaion National Park Timed Entry Permit System (TEPS) at the 2024 Biennial Research Conference this past March, and I created a cool visualization of the trends in park visitation over the course of a century – special thanks to [NPS IRMA](https://irma.nps.gov/Stats/) for the data. 
 
-![A century of RMNP Visitation, with annotations for time between each million visitors](files/images/ROMO_Visitation.gif)
+<img src="files/images/ROMO_Visitation.gif" alt="A century of RMNP Visitation, with annotations for time between each million visitors" />
 
 When I show this figure, I like to provide some historical context and landmarks in time that correspond and explain the trends in the figure:
 * **1945-1955 (Post-WWII):** The return of US Service members from WWII, the affordability of automobiles, and the expansion of the interstate-highway system lead to an increase in visitation across the National Park Service. 
