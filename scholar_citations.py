@@ -11,7 +11,7 @@ def parsel_scrape_author_cited_by_graph():
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36'
     }
 
-    html = requests.get('https://scholar.google.com/citations', params=params, headers=headers, timeout=30)
+    html = requests.get('https://scholar.google.com/citations', params=params, headers=headers, timeout=100)
     selector = Selector(text=html.text)
 
     data = {
