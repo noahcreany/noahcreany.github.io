@@ -33,5 +33,5 @@ jobs:
           
           git add ./_includes/chart.html
           git commit -m "Citations chart updated" || echo "No changes to commit"
-          git pull --rebase origin main
-          git push
+          git pull --rebase origin master
+          git push origin master
