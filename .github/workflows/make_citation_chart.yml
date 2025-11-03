@@ -22,7 +22,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r ./scholar_citations_requirements.txt
+          pip install parsel pandas requests altair
       - name: Run script
         run: python ./scholar_citations.py
         
