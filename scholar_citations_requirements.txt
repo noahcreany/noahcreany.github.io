@@ -1,4 +1,0 @@
-parsel
-pandas
-requests
-altair
