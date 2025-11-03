@@ -19,7 +19,7 @@ def parsel_scrape_author_cited_by_graph():
         'graph': []
     }
 
-    since_year = selector.css('.gsc_rsb_sth~ .gsc_rsb_sth+ .gsc_rsb_sth::text').get().replace(' ', '_')
+    since_year = selector.css('.gsc_rsb_sth~ .gsc_rsb_sth+ .gsc_rsb_sth::text').get()
 
     for cited_by_public_access in selector.css('.gsc_rsb'):
         data['cited_by'].append({
