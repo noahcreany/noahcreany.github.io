@@ -8,7 +8,7 @@ def parsel_scrape_author_cited_by_graph():
               'hl': 'en'} 
 
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36'
     }
 
     html = requests.get('https://scholar.google.com/citations', params=params, headers=headers, timeout=30)
