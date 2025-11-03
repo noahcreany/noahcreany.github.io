@@ -1,0 +1,6 @@
+parsel
+requests
+os
+json
+pandas
+altair
