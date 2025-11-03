@@ -72,13 +72,13 @@ chart = alt.Chart(citations).properties(width=600,
                                             dy=20,
                                             dx=20)
                             ).encode(alt.X('Year:O', 
-                                           title='Year',
+                                           title=None,
                                            axis=alt.Axis(labelAngle=0,
-                                                         labelFontSize=14,
-                                                         titleFontSize=16)),
+                                                         labelFontSize=16)),
                                      alt.Y('Citations:Q', title=None,
                                            axis=alt.Axis(format='d',
                                                          domain=False,
+                                                         labelFontSize=13,
                                                          tickMinStep=2,
                                                          tickCount=10,
                                                          ticks=True)))
@@ -92,7 +92,7 @@ area = chart.mark_area(line={'color':'dodgerblue'},
                            x1=1, x2=1, y1=1, y2=0))
 
 points = chart.mark_point(filled=True,
-                         size=100,
+                         size=125,
                          color='dodgerblue',
                          stroke='white',
                          strokeWidth=2)
@@ -100,7 +100,7 @@ points = chart.mark_point(filled=True,
 text_layer = chart.mark_text(align='center',
                             baseline='bottom',
                             dy=-8,
-                            size=14,
+                            size=15,
                             color='black'
                             ).encode(text=alt.Text('Citations:Q', format='d'))
 
