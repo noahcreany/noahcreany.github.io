@@ -1,4 +1,4 @@
-name: Run Scholar Citations
+name: make citation chart
 
 on:
   schedule:
