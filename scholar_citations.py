@@ -4,6 +4,12 @@ import pandas as pd
 import altair as alt
 import time
 import random
+import os
+
+
+os.chdir("/Volumes/980_EVO/noahcreany.github.io") 
+
+# alt.renderers.enable("browser")
 
 def parsel_scrape_author_cited_by_graph():
     time.sleep(random.uniform(5, 10)) # Wait between 5 and 10 seconds
@@ -65,8 +71,8 @@ for y in range(len(data['graph'])):
 alt.theme.enable('urbaninstitute')
 
 
-chart = alt.Chart(citations).properties(width=600,
-                                        height=350,
+chart = alt.Chart(citations).properties(width=500,
+                                        height=200,
                                         title = alt.TitleParams(
                                             ['Data from Google Scholar'],
                                             baseline = 'bottom',
