@@ -5,7 +5,9 @@ import altair as alt
 import time
 import random
 import os
+from datetime import datetime
 
+today = datetime.now().strftime('%-d %b %Y')
 
 os.chdir("/Volumes/980_EVO/noahcreany.github.io") 
 
@@ -74,7 +76,7 @@ alt.theme.enable('urbaninstitute')
 chart = alt.Chart(citations).properties(width=500,
                                         height=200,
                                         title = alt.TitleParams(
-                                            ['Data from Google Scholar'],
+                                            [f'Data from Google Scholar | Updated: {today}'],
                                             baseline = 'bottom',
                                             orient='bottom',
                                             anchor = 'end',
