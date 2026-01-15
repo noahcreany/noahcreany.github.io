@@ -18,5 +18,7 @@ package-lock.json
 .DS_Store
 .ipynb_checkpoints/*
 .Rhistory
+
+# Ignore files created by me
 scholar_citations.py
 publication_visualization.py
