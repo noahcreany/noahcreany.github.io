@@ -25,13 +25,13 @@ through the lens of social-ecological systems.
 Professional Experience 
 ======
 
-**Postdoctoral Research Fellow** - (2024-2025)
+**Postdoctoral Research Fellow** - (2024-2025)\
 *Oak Ridge Institute for Science and Education (ORISE)/ U.S. Forest Service*
 - Optimized the U.S. Forest Service National Visitor Use Monitoring (NVUM) program using statistical modeling to reduce data collection intensity and costs while minimizing impacts on data utility.
 - Developed gradient-boosted regression model using novel monitoring data to predict site-level daily forest visitation, and computer-vision object-detection workflow for automated trail-use monitoring.
 
-**Research Assistant** - (2017-2024)
-*Utah State University*
+**Research Assistant** - (2017-2024)\
+*Utah State University* 
 - Investigated recreation impacts on wildland ecosystems, employing advanced data analytics and machine learning techniques (Python, R) for regression, classification, and clustering.
 - Managed and analyzed complex multi-modal datasets, including spatial, tabular, survey, and raster/imagery data.
 - Collaborated with federal, state, and county land managers to ensure research deliverables met management priorities and timelines.
