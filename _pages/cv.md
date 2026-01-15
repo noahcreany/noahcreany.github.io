@@ -46,7 +46,7 @@ Education
 Skills
 ======
 
-<table style="display: inline-table;">
+<table style="display: inline-table; width: auto;">
   <tr>
     <td style="vertical-align:top; padding-right: 20px;">
       <p style="text-align: center;"><strong>Programming Languages</strong></p>
@@ -75,7 +75,7 @@ Funded Research
 ======
 
 <style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;width:auto;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
