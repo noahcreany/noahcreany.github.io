@@ -6,40 +6,49 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar
+    profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
 
-{% include chart.html 
-  path="_includes/chart.html" 
-  width="600" 
-  height="350" 
-  padding="50px 0"
+{% include chart.html
+path="_includes/chart.html"
+width="600"
+height="350"
+padding="50px 0"
 %}
+
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    {% include journal_counts.html %}
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    {% include keyword_network.html %}
+  </div>
+</div>
+
 
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% for category in site.publication_category %}
+{% assign title_shown = false %}
+{% for post in site.publications reversed %}
+{% if post.category != category[0] %}
+{% continue %}
 {% endif %}
-
-
-
+{% unless title_shown %}
+<h2>{{ category[1].title }}</h2>
+<hr />
+{% assign title_shown = true %}
+{% endunless %}
+{% include archive-single.html %}
+{% endfor %}
+{% endfor %}
+{% else %}
+{% for post in site.publications reversed %}
+{% include archive-single.html %}
+{% endfor %}
+{% endif %}

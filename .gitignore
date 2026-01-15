@@ -18,3 +18,5 @@ package-lock.json
 .DS_Store
 .ipynb_checkpoints/*
 .Rhistory
+scholar_citations.py
+publication_visualization.py
