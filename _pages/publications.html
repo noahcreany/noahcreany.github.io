@@ -20,14 +20,20 @@ height="350"
 padding="50px 0"
 %}
 
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    {% include journal_counts.html %}
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    {% include keyword_network.html %}
-  </div>
-</div>
+{% include journal_counts.html
+path="_includes/journal_counts.html"
+width="600"
+height="350"
+padding="50px 0"
+%}
+
+{% include keyword_network.html
+path="_includes/keyword_network.html"
+width="600"
+height="350"
+padding="50px 0"
+%}
+
 
 
 
