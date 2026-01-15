@@ -9,5 +9,5 @@ location: "Logan, Utah"
 ---
 
 - Statistics and data analysis methods for ecology, demography, and natural resource management. 
-- Asynchronous delivery of a data analysis and programming (python) for students in the Master of Natural Resource (MNR) program
+- Asynchronous delivery of a data analysis and programming (Python) course for students in the Master of Natural Resource (MNR) program
 - Instructor of Record

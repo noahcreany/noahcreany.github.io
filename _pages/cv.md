@@ -132,9 +132,9 @@ tools.
 
 - **Volunteering**
   - *Emergency Medical Fund Liaison & Treasurer. Graduate Student Council. (2019-2021)*
-    - Oversee budget for USU College of Natural Resources Graduate Student Emergency Medical
+    - Oversee the budget for the USU College of Natural Resources Graduate Student Emergency Medical
 Fund Scholarship which provides financial assistance to graduate students.
-  - *Nordic United. (2017-2024)t*
+  - *Nordic United (2017–2024)*
     - Volunteer trail groomer for Nordic trails in Logan, UT and assisted with preparation and
 organization of a backcountry ski-mountaineering race. Nordic United advocates for
 human-powered winter recreation on the Cache National Forest.

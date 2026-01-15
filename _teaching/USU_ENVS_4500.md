@@ -9,7 +9,7 @@ location: "Logan, Utah"
 ---
 
 - Instructor of Record in 2020, 2021, & 2022
-- Communication intensive class
+- Communication-intensive class
 
 This course is divided into three 5-week sections/modules based on the following
 themes:
@@ -25,4 +25,4 @@ and ecological issues associated with recreation use of wildlands.
 3) Recreation Management Practices & Frameworks
 After we have gathered the context of the previous two sections, we will shift focus
 to an applied unit where we will examine exactly what is managed in wildlands and
-the management frameworks and approaches to provide recreation use and protects ecological resources
+the management frameworks and approaches to provide recreation use and protect ecological resources

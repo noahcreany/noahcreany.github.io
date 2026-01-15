@@ -1,5 +1,5 @@
 ---
-title: "Classifications Of Recreation Specialization: Attitudinal And Behavioral Differences Across Specialization Types In The Nature Reserve Of Orange County, CA, USA"
+title: "Classifications of Recreation Specialization: Attitudinal and Behavioral Differences Across Specialization Types in the Nature Reserve of Orange County, CA, USA"
 collection: publications
 category: manuscripts
 permalink: /publication/VanDeursen_Classifications_2025

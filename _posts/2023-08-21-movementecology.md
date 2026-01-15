@@ -1,5 +1,5 @@
 ---
-title: 'Using Movement-Ecology Tools to Understand Recreation Behavior'
+title: 'Using Movement Ecology Tools to Understand Recreation Behavior'
 date: 2023-8-21
 author: noah
 excerpt: Python packages for analyzing wildlife movement behavior are very useful for understanding human movement behavior.
@@ -22,7 +22,7 @@ One tool I have found useful recently is MovingPandas [(Graser, 2019)](https://d
 which provides a range of tools to calculate, summarize, aggregate,
 and generalize movement behavior and develop useful insights. We have been using this tool in the lab with some of our recent GPS studies
 and have found it to be a powerful tool to process and prepare data as well as to generate visualizations of movement behavior.  
-The example below shows an output from MovingPandas which can help inform recreation management use because patterns of recreation use are
+The example below shows an output from MovingPandas which can help inform recreation management because patterns of recreation use are
 patterns of recreation disturbance. 
 
 ![Trajectory generalization and stopping points identification with MovingPandas
