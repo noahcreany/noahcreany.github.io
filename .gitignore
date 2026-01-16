@@ -20,5 +20,4 @@ package-lock.json
 .Rhistory
 
 # Ignore files created by me
-scholar_citations.py
-publication_visualization.py
+pub_visualizations.py
