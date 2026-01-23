@@ -1,8 +1,8 @@
 ---
-title: 'New *Strava Metro* Publication'
+title: 'New Strava Metro Publication'
 date: 2026-1-23
 author: noah
-excerpt: *Strava Metro* provides reliable estimates of recreation use protected areas..
+excerpt: Strava Metro provides reliable estimates of recreation use protected areas..
 permalink: /posts/2026/01/stravametro
 ---
 
