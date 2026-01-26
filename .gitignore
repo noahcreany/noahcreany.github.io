@@ -1,6 +1,9 @@
 # Ignore the contents of the _site directory and other cache directories
 _site/
 .sass-cache/
+.DS_Store
+/.DS_Store
+
 
 # Ignore the directory for local files during development
 local/
@@ -20,4 +23,4 @@ package-lock.json
 .Rhistory
 
 # Ignore files created by me
-pub_visualizations.py
+pub_visualizations.py.DS_Store
