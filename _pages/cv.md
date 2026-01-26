@@ -103,15 +103,19 @@ Funded Research
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% for post in site.publications reversed %}
+    <ul>
+      {% include archive-single-cv.html %}
+    </ul>
+  {% endfor %}
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% for post in site.talks reversed %}
+    <ul>
+      {% include archive-single-talk-cv.html  %}
+    </ul>
+  {% endfor %}
 
 Awards
 ======
@@ -124,9 +128,11 @@ Awards
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% for post in site.teaching reversed %}
+    <ul>
+      {% include archive-single-cv.html %}
+    </ul>
+  {% endfor %}
   
 Service & Leadership
 ======
