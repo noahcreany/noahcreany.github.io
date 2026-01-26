@@ -2,7 +2,7 @@
 title: "The effect of a vehicle diversion traffic management strategy on spatio-temporal park use: A study in Rocky Mountain National Park, Colorado, USA"
 collection: publications
 category: manuscripts
-permalink: /publication/Wesstrom_Effect_2021
+permalink: /publications/Wesstrom_Effect_2021
 excerpt: 'GPS based traffic analysis of Rocky Mtn. NP road closures on visitor behavior.'
 date: 2021-02-01
 venue: 'Journal of Park and Recreation Administration'

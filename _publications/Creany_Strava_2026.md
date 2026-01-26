@@ -2,7 +2,7 @@
 title: "Strava Metro mobility data provides accurate estimates of recreation use in Urban-Proximate Protected Areas"
 collection: publications
 category: manuscripts
-permalink: /publication/Creany_Strava_2026
+permalink: /publications/Creany_Strava_2026
 excerpt: 'Using Strava Metro data to estimate recreation use in urban-proximate protected areas'
 date: 2026-01-23
 venue: 'Journal of Outdoor Recreation and Tourism'

@@ -2,7 +2,7 @@
 title: "Mobile Device Data Analysis to Determine the Demographics of Park Visitors."
 collection: publications
 category: manuscripts
-permalink: /publication/Monz_Mobile_2021
+permalink: /publications/Monz_Mobile_2021
 excerpt: 'Using mobile device data to determine the demographics of PPA visitors.'
 date: 2021/1/1
 venue: 'Journal of Park and Recreation Administration'

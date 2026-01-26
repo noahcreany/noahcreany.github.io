@@ -2,7 +2,7 @@
 title: "Understanding visitor attitudes towards the timed-entry reservation system in Rocky Mountain National Park: Contemporary managed access as a social-ecological system"
 collection: publications
 category: manuscripts
-permalink: /publication/Creany_Understanding_2024
+permalink: /publications/Creany_Understanding_2024
 excerpt: 'Evaluation of visitor attitudes towards the Rocky Mtn. National Park TEPS Reservation System'
 date: 2024-01-20
 venue: 'Journal of Outdoor Recreation and Tourism'

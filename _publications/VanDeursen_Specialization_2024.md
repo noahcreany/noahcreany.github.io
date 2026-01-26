@@ -2,7 +2,7 @@
 title: "Recreation specialization: Resource selection functions as a predictive tool for protected area recreation management"
 collection: publications
 category: manuscripts
-permalink: /publication/VanDeursen_Specialization_2024
+permalink: /publications/VanDeursen_Specialization_2024
 excerpt: 'Using resource selection functions to understand PPA visitors and their spatial behavior'
 date: 2024-06-01
 venue: 'Applied Geography'

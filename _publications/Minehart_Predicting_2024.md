@@ -2,7 +2,7 @@
 title: "Predicting trail condition using random forest models in urban-proximate nature reserves"
 collection: publications
 category: manuscripts
-permalink: /publication//Minehart_Predicting_2024
+permalink: /publications/Minehart_Predicting_2024
 excerpt: 'Using random forest regression trees to predict trail condition class.'
 date: 2024-05-12
 venue: 'Environmental Challenges'
