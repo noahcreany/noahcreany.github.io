@@ -2,7 +2,7 @@
 title: "Estimating trail use and visitor spatial distribution using mobile device data: An example from the Nature Reserve of Orange County, California USA"
 collection: publications
 category: manuscripts
-permalink: /publication//Creany_Estimating_2021
+permalink: /publication/Creany_Estimating_2021
 excerpt: 'Using mobile device data to estimate visitation to parks and protected areas'
 date: 2021-06-04
 venue: 'Environmental Challenges'
