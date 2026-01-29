@@ -3,7 +3,7 @@ title: "Understanding visitor attitudes towards the timed-entry reservation syst
 collection: publications
 category: manuscripts
 permalink: /publications/Creany_Understanding_2024
-excerpt: 'Evaluation of visitor attitudes towards the Rocky Mtn. National Park TEPS Reservation System'
+# excerpt: 'Evaluation of visitor attitudes towards the Rocky Mtn. National Park TEPS Reservation System'
 date: 2024-01-20
 venue: 'Journal of Outdoor Recreation and Tourism'
 paperurl: 'http://noahcreany.github.io/files/Creany_Understanding_2024.pdf'

@@ -3,7 +3,7 @@ title: "Estimating trail use and visitor spatial distribution using mobile devic
 collection: publications
 category: manuscripts
 permalink: /publications/Creany_Estimating_2021
-excerpt: 'Using mobile device data to estimate visitation to parks and protected areas'
+# excerpt: 'Using mobile device data to estimate visitation to parks and protected areas'
 date: 2021-06-04
 venue: 'Environmental Challenges'
 paperurl: 'http://noahcreany.github.io/files/Creany_Estimating_2021.pdf'

@@ -3,7 +3,7 @@ title: "The application of unmanned aerial vehicle (UAV) surveys and GIS to the 
 collection: publications
 category: manuscripts
 permalink: /publications/Tomczyk_Application_2023
-excerpt: 'Drones/UAVs to monitor PPA trails and resources.'
+# excerpt: 'Drones/UAVs to monitor PPA trails and resources.'
 date: 2023-09-01
 venue: 'International Journal of Applied Earth Observation and Geoinformation'
 paperurl: 'http://noahcreany.github.io/files/Tomczyk_Application_2023.pdf'

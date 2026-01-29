@@ -3,7 +3,7 @@ title: "Predicting trail condition using random forest models in urban-proximate
 collection: publications
 category: manuscripts
 permalink: /publications/Minehart_Predicting_2024
-excerpt: 'Using random forest regression trees to predict trail condition class.'
+# excerpt: 'Using random forest regression trees to predict trail condition class.'
 date: 2024-05-12
 venue: 'Environmental Challenges'
 paperurl: 'http://noahcreany.github.io/files/Minehart_Predicting_2024.pdf'
