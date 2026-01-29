@@ -95,11 +95,15 @@ for row, item in publications.iterrows():
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+    # if len(str(item.excerpt)) > 5:
+    #     md += "\n" + html_escape(item.excerpt) + "\n"
+
+    if 'widget' in item and len(str(item.widget)) > 5:
+        md += "\n" + str(item.widget)
+        md += '\n<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>'
         
     md += "\nRecommended citation: " + item.citation
-    
+   
     md_filename = os.path.basename(md_filename)
        
     with open("../_publications/" + md_filename, 'w') as f:
