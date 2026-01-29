@@ -1,9 +1,6 @@
 # Ignore the contents of the _site directory and other cache directories
 _site/
 .sass-cache/
-.DS_Store
-/.DS_Store
-
 
 # Ignore the directory for local files during development
 local/
@@ -14,13 +11,3 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
-
-# Ignore Spyder files 
-.spyproject
-.spyproject/*
-.DS_Store
-.ipynb_checkpoints/*
-.Rhistory
-
-# Ignore files created by me
-pub_visualizations.py.DS_Store
