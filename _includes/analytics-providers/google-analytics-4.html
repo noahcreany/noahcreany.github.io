@@ -1,8 +1,28 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id={{site.analytics.google.tracking_id}}"></script>
-<script>
+
+script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', '{{site.analytics.google.tracking_id}}');
+  (function() {
+    // 1. Get current resolution
+    var screenRes = window.screen.width + "x" + window.screen.height;
+    
+    // 2. Define the bot signatures from the Reddit post
+    // 1280x1200 and 3840x2160 are the primary offenders
+    var isBotRes = (
+      screenRes === "1280x1200" || 
+      screenRes === "3840x2160" || 
+      screenRes === "1024x1024" ||
+      window.screen.width === window.screen.height // Catch-all for square resolutions
+    );
+
+    // 3. Only run analytics if it DOES NOT match a bot signature
+    if (!isBotRes) {
+      gtag('js', new Date());
+      gtag('config', '{{site.analytics.google.tracking_id}}');
+    } else {
+      console.log("Analytics suppressed for suspicious resolution: " + screenRes);
+    }
+  })();
 </script>

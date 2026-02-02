@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /
+
+# If you see specific bot names in your analytics (e.g., 'Baiduspider'), 
+# you can call them out specifically:
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: sogou spider
+Disallow: /

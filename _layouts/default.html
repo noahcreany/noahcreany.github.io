@@ -7,6 +7,17 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
+    <script>
+      // Quick check for suspect Lanzhou/China traffic
+      fetch('https://ipapi.co/json/')
+        .then(response => response.json())
+        .then(data => {
+          if (data.city === "Lanzhou" || data.region_code === "GS") {
+            window.location.replace("about:blank");
+          }
+        })
+        .catch(err => console.log("Geo-check skipped"));
+    </script>
     {% include analytics.html %}
     {% include head.html %}
     {% include head/custom.html %}
