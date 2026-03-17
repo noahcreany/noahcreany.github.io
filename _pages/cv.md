@@ -11,8 +11,8 @@ redirect_from:
 
 [Download CV (PDF)](https://noahcreany.github.io/files/N_Creany_CV.pdf)
 
-Research 
-======
+# Research
+
 **Protected Area Conservation & Management**
 
 Broadly, my research aims to inform recreation management in protected area settings
@@ -22,29 +22,28 @@ through the lens of social-ecological systems.
 - Human Dimensions of Wildland Recreation
 - Visitor Use Management & Monitoring
 
-Professional Experience 
-======
+# Professional Experience
 
-**Postdoctoral Research Fellow** - (2024-2025)\
-*Oak Ridge Institute for Science and Education (ORISE)/ U.S. Forest Service*
+**Postdoctoral Research Fellow** - (2024-2026)\
+_Oak Ridge Institute for Science and Education (ORISE)/ U.S. Forest Service_
+
 - Optimized the U.S. Forest Service National Visitor Use Monitoring (NVUM) program using statistical modeling to reduce data collection intensity and costs while minimizing impacts on data utility.
 - Developed gradient-boosted regression model using novel monitoring data to predict site-level daily forest visitation, and computer-vision object-detection workflow for automated trail-use monitoring.
 
 **Research Assistant** - (2017-2024)\
-*Utah State University* 
+_Utah State University_
+
 - Investigated recreation impacts on wildland ecosystems, employing advanced data analytics and machine learning techniques (Python, R) for regression, classification, and clustering.
 - Managed and analyzed complex multi-modal datasets, including spatial, tabular, survey, and raster/imagery data.
 - Collaborated with federal, state, and county land managers to ensure research deliverables met management priorities and timelines.
-    
-Education
-======
-* Ph.D Ecology, Utah State University, 2024
-* M.S. Recreation Resource Management, Utah State University, 2019
-* B.S. in Community, Environment, & Development, Pennsylvania State University, 2012
 
+# Education
 
-Skills
-======
+- Ph.D Ecology, Utah State University, 2024
+- M.S. Recreation Resource Management, Utah State University, 2019
+- B.S. in Community, Environment, & Development, Pennsylvania State University, 2012
+
+# Skills
 
 <table style="display: inline-table; width: auto;">
   <tr>
@@ -70,9 +69,7 @@ Skills
   </tr>
 </table>
 
-
-Funded Research
-======
+# Funded Research
 
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;width:auto;}
@@ -101,8 +98,7 @@ Funded Research
 </tbody>
 </table>
 
-Publications
-======
+# Publications
 
 <ul>{% for post in site.publications reversed %}
 {% include archive-single-cv.html %}
@@ -115,8 +111,7 @@ Talks
 {% include archive-single-talk-cv.html  %}
 {% endfor %}</ul>
 
-Awards
-======
+# Awards
 
 **Rocky Mountain Cooperative Ecosystem Studies Unit (CESU)**
 : Student Researcher (Honorable Mention) (2023)
@@ -124,8 +119,7 @@ Awards
 **Utah State University Quinney College of Natural Resources**
 : Doctoral Student Researcher of the Year (2023)
 
-Teaching
-======
+# Teaching
 
 <ul>{% for post in site.teaching reversed %}
 {% include archive-single-cv.html %}
@@ -135,24 +129,22 @@ Service & Leadership
 ======
 
 - **Academic Journals**
-  - **Associate Editor** - *Journal of Outdoor Recreation & Tourism Research. 2025-Present*
-  - Reviewer - *Scientific Reports - Nature. 2025-Present*
-  - Reviewer - *Journal of Interpretation Research. 2024-Present*
-  - Reviewer - *Journal of Park and Recreation Administration. 2021-Present*
-  - Reviewer - *Biodiversity and Conservation. 2021-Present*
-  - Reviewer - *Landscape and Urban Planning. 2021-Present*
+  - **Associate Editor** - _Journal of Outdoor Recreation & Tourism Research. 2025-Present_
+  - Reviewer - _Scientific Reports - Nature. 2025-Present_
+  - Reviewer - _Journal of Interpretation Research. 2024-Present_
+  - Reviewer - _Journal of Park and Recreation Administration. 2021-Present_
+  - Reviewer - _Biodiversity and Conservation. 2021-Present_
+  - Reviewer - _Landscape and Urban Planning. 2021-Present_
 
-- **Training**  
-  - *Sustainable Trail Design & Monitoring Webinar. Great Basin Institute. (2020)*  
-     - Delivered a webinar to Great Basin Institute/Nevada Conservation Corps AmeriCorps crew
-leaders on Sustainable Trail Design, Recreation Ecology, and GIS analysis and trail design
-tools.
+- **Training**
+  - _Sustainable Trail Design & Monitoring Webinar. Great Basin Institute. (2020)_
+    - Delivered a webinar to Great Basin Institute/Nevada Conservation Corps AmeriCorps crew
+      leaders on Sustainable Trail Design, Recreation Ecology, and GIS analysis and trail design
+      tools.
 
 - **Volunteering**
-  - *Emergency Medical Fund Liaison & Treasurer. Graduate Student Council. (2019-2021)*
-    - Oversee the budget for the USU College of Natural Resources Graduate Student Emergency Medical
-Fund Scholarship which provides financial assistance to graduate students.
-  - *Nordic United (2017–2024)*
-    - Volunteer trail groomer for Nordic trails in Logan, UT and assisted with preparation and
-organization of a backcountry ski-mountaineering race. Nordic United advocates for
-human-powered winter recreation on the Cache National Forest.
+  - _Emergency Medical Fund Liaison & Treasurer. Graduate Student Council. (2019-2021)_ - Oversee the budget for the USU College of Natural Resources Graduate Student Emergency Medical
+    Fund Scholarship which provides financial assistance to graduate students.
+  - _Nordic United (2017–2024)_ - Volunteer trail groomer for Nordic trails in Logan, UT and assisted with preparation and
+    organization of a backcountry ski-mountaineering race. Nordic United advocates for
+    human-powered winter recreation on the Cache National Forest.
