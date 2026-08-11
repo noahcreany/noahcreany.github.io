@@ -136,7 +136,7 @@ Service & Leadership
 ======
 
 - **Academic Journals**
-  - **Associate Editor** - _Journal of Outdoor Recreation & Tourism Research. 2025-Present_
+  - Associate Editor - _Journal of Outdoor Recreation & Tourism Research. 2025-Present_
   - Reviewer - _Scientific Reports - Nature. 2025-Present_
   - Reviewer - _Journal of Interpretation Research. 2024-Present_
   - Reviewer - _Journal of Park and Recreation Administration. 2021-Present_
