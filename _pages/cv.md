@@ -72,28 +72,35 @@ _Utah State University_
 # Funded Research
 
 <style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;width:auto;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg"><thead>
+<table class="tg"><tbody>
   <tr>
-    <th class="tg-7btt">Year</th>
-    <th class="tg-7btt">Project</th>
-  </tr></thead>
-<tbody>
+    <td class="tg-7btt">Year</td>
+    <td class="tg-7btt">Project</td>
+  </tr>
   <tr>
-    <td class="tg-btxf">2025</td>
-    <td class="tg-btxf">Rocky Mountain National Park Day Use Visitor Access Monitoring <br> • $15,000 (Rocky Mountain Conservancy)</td>
+    <td class="tg-0lax">2026</td>
+    <td class="tg-0lax">Arches National Park&nbsp;&nbsp;<br>- Transportation analysis of park entrance queue with computer vision - $5,000</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2026</td>
+    <td class="tg-0pky">City of Boulder Open Space and Mountain Parks (OSMP)<br>- Developing computer-vision visitor use monitoring methodology - $12,000</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2025</td>
+    <td class="tg-0pky">Rocky Mountain National Park Day Use Visitor Access Monitoring <br>- Rocky Mountain Conservancy $15,000</td>
   </tr>
   <tr>
     <td class="tg-0pky">2024</td>
-    <td class="tg-0pky">Rocky Mountain National Park Day Use Visitor Access Monitoring <br><span style="font-weight:400;font-style:normal"> • </span>$15,000 (Rocky Mountain Conservancy)</td>
+    <td class="tg-0pky">Rocky Mountain National Park Day Use Visitor Access Monitoring <br><span style="font-weight:400;font-style:normal">- Rocky Mountain Conservancy $15,000</span></td>
   </tr>
 </tbody>
 </table>
